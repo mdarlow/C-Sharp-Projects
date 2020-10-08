@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Assignment133\Assignment133\obj\Debug\Assignment133.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Assignment133\Assignment133\obj\Debug\Assignment133.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Assignment133\Assignment133\bin\Debug\Assignment133.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Assignment133\Assignment133\bin\Debug\Assignment133.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Assignment133\Assignment133\bin\Debug\Assignment133.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Assignment133\Assignment133\obj\Debug\Assignment133.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Assignment133\Assignment133\obj\Debug\Assignment133.pdb
