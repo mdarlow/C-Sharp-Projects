@@ -38,6 +38,7 @@ namespace Assignment133
             int studyhrs = Convert.ToInt32(studyHours);
 
             Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
+            Console.ReadLine();
 
         }
     }
