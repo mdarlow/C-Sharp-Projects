@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\source\repos\Challenge_146\Challenge_146\bin\Debug\Challenge_146.exe.config
+C:\Users\Michael Darlow\source\repos\Challenge_146\Challenge_146\bin\Debug\Challenge_146.exe
+C:\Users\Michael Darlow\source\repos\Challenge_146\Challenge_146\bin\Debug\Challenge_146.pdb
+C:\Users\Michael Darlow\source\repos\Challenge_146\Challenge_146\obj\Debug\Challenge_146.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\source\repos\Challenge_146\Challenge_146\obj\Debug\Challenge_146.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\source\repos\Challenge_146\Challenge_146\obj\Debug\Challenge_146.exe
+C:\Users\Michael Darlow\source\repos\Challenge_146\Challenge_146\obj\Debug\Challenge_146.pdb
