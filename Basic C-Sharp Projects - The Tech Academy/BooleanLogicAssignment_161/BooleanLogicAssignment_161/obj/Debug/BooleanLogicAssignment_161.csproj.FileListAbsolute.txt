@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicAssignment_161\BooleanLogicAssignment_161\bin\Debug\BooleanLogicAssignment_161.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicAssignment_161\BooleanLogicAssignment_161\bin\Debug\BooleanLogicAssignment_161.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicAssignment_161\BooleanLogicAssignment_161\bin\Debug\BooleanLogicAssignment_161.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicAssignment_161\BooleanLogicAssignment_161\obj\Debug\BooleanLogicAssignment_161.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicAssignment_161\BooleanLogicAssignment_161\obj\Debug\BooleanLogicAssignment_161.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicAssignment_161\BooleanLogicAssignment_161\obj\Debug\BooleanLogicAssignment_161.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicAssignment_161\BooleanLogicAssignment_161\obj\Debug\BooleanLogicAssignment_161.pdb

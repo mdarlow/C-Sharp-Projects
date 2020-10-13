@@ -20,11 +20,11 @@ namespace MathAndComparisonOperatorsAssignment_152
             int p2HoursWorked = Convert.ToInt32(Console.ReadLine());
             
             Console.WriteLine("Annual salary of Person 1:");
-            int p1Salary = p1HourlyRate * p1HoursWorked * 56;
+            int p1Salary = p1HourlyRate * p1HoursWorked * 52;
             Console.WriteLine(p1Salary);
             
             Console.WriteLine("Annual salary of Person 2:");
-            int p2Salary = p2HourlyRate * p2HoursWorked * 56;
+            int p2Salary = p2HourlyRate * p2HoursWorked * 52;
             Console.WriteLine(p2Salary);
 
             Console.WriteLine("Does Person 1 make more money than Person 2?");
