@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Challenge_167\Challenge_167\obj\Debug\Challenge_167.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Challenge_167\Challenge_167\obj\Debug\Challenge_167.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Challenge_167\Challenge_167\bin\Debug\Challenge_167.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Challenge_167\Challenge_167\bin\Debug\Challenge_167.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Challenge_167\Challenge_167\bin\Debug\Challenge_167.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Challenge_167\Challenge_167\obj\Debug\Challenge_167.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Challenge_167\Challenge_167\obj\Debug\Challenge_167.pdb
