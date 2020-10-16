@@ -10,6 +10,11 @@ namespace ConsoleAppAssignment_183
     {
         static void Main(string[] args)
         {
+
+
+  ////////////////////////////////////
+ ////////// Do-While Loop ///////////
+////////////////////////////////////
             Console.WriteLine("What is the best dessert in the world?");
             string guess = Convert.ToString(Console.ReadLine());
             bool isGuessed = guess == "cheesecake";
@@ -35,6 +40,24 @@ namespace ConsoleAppAssignment_183
             while (!isGuessed);
 
             Console.ReadLine();
+
+
+  ////////////////////////////////////
+ /////////// While Loop /////////////
+////////////////////////////////////
+            Console.WriteLine("Pick a number.");
+            int numGuess = Convert.ToInt32(Console.ReadLine());
+            bool numIsGuessed = numGuess == 9;
+
+            while (!numIsGuessed)
+            {
+                switch (numGuess)
+                {
+                    default:
+                        Console.WriteLine("Nope, try again.");
+                        break;
+                }
+            }
         }
     }
 }
