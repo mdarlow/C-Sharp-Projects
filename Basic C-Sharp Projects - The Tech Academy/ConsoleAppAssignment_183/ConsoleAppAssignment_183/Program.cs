@@ -47,17 +47,23 @@ namespace ConsoleAppAssignment_183
 ////////////////////////////////////
             Console.WriteLine("Pick a number.");
             int numGuess = Convert.ToInt32(Console.ReadLine());
-            bool numIsGuessed = numGuess == 9;
+            bool numIsGuessed = false;
 
             while (!numIsGuessed)
             {
                 switch (numGuess)
                 {
+                    case 9:
+                        Console.WriteLine("Correct!");
+                        numIsGuessed = true;
+                        break;
                     default:
                         Console.WriteLine("Nope, try again.");
+                        numGuess = Convert.ToInt32(Console.ReadLine());
                         break;
                 }
             }
+            Console.ReadLine();
         }
     }
 }
