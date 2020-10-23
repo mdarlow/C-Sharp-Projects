@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\bin\Debug\ConsoleAppSixPartAssignment.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\bin\Debug\ConsoleAppSixPartAssignment.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\bin\Debug\ConsoleAppSixPartAssignment.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\ConsoleAppSixPartAssignment.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\ConsoleAppSixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\ConsoleAppSixPartAssignment.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\ConsoleAppSixPartAssignment.pdb

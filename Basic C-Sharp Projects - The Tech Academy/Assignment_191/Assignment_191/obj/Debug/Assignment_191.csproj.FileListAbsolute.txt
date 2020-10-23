@@ -5,3 +5,10 @@ C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Assignment_191\Assign
 C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Assignment_191\Assignment_191\obj\Debug\Assignment_191.csproj.CoreCompileInputs.cache
 C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Assignment_191\Assignment_191\obj\Debug\Assignment_191.exe
 C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\Assignment_191\Assignment_191\obj\Debug\Assignment_191.pdb
+C:\Users\Michael Darlow\myProjects\C-Sharp-Projects\Basic C-Sharp Projects - The Tech Academy\Assignment_191\Assignment_191\bin\Debug\Assignment_191.exe.config
+C:\Users\Michael Darlow\myProjects\C-Sharp-Projects\Basic C-Sharp Projects - The Tech Academy\Assignment_191\Assignment_191\bin\Debug\Assignment_191.exe
+C:\Users\Michael Darlow\myProjects\C-Sharp-Projects\Basic C-Sharp Projects - The Tech Academy\Assignment_191\Assignment_191\bin\Debug\Assignment_191.pdb
+C:\Users\Michael Darlow\myProjects\C-Sharp-Projects\Basic C-Sharp Projects - The Tech Academy\Assignment_191\Assignment_191\obj\Debug\Assignment_191.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\myProjects\C-Sharp-Projects\Basic C-Sharp Projects - The Tech Academy\Assignment_191\Assignment_191\obj\Debug\Assignment_191.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\myProjects\C-Sharp-Projects\Basic C-Sharp Projects - The Tech Academy\Assignment_191\Assignment_191\obj\Debug\Assignment_191.exe
+C:\Users\Michael Darlow\myProjects\C-Sharp-Projects\Basic C-Sharp Projects - The Tech Academy\Assignment_191\Assignment_191\obj\Debug\Assignment_191.pdb

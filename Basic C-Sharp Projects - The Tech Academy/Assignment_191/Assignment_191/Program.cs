@@ -12,15 +12,11 @@ class Program
           //////////////////////
          // Array of Strings //
         //////////////////////
-        string[] stringArray = new string[3];
-        stringArray[0] = "Why, ";
-        stringArray[1] = "hello ";
-        stringArray[2] = "there.";
-
+        string[] stringArray = {"Why, ", "hello ", "there."};
         Console.WriteLine("Select an index of the string array.");
         int stringArrayIndex = Convert.ToInt32(Console.ReadLine());
 
-        while (stringArrayIndex < 0 || stringArrayIndex > 2)
+        while (stringArrayIndex < 0 || stringArrayIndex >= stringArray.Length)
         {
             Console.WriteLine("Index does not exist within array. Please try again.");
             stringArrayIndex = Convert.ToInt32(Console.ReadLine());
@@ -32,41 +28,27 @@ class Program
           ///////////////////////
          // Array of Integers //
         ///////////////////////
-        int[] intList = new int[5];
-        intList[0] = 50;
-        intList[1] = 64;
-        intList[2] = 82;
-        intList[3] = 91;
-        intList[4] = 2147483647;
-
+        int[] intArray = {50, 64, 82, 91, 2147483647};
         Console.WriteLine("Select an index of the number array.");
         int intArrayIndex = Convert.ToInt32(Console.ReadLine());
 
-        while (intArrayIndex < 0 || intArrayIndex > 4)
+        while (intArrayIndex < 0 || intArrayIndex >= intArray.Length)
         {
             Console.WriteLine("Index does not exist within array. Please try again.");
             intArrayIndex = Convert.ToInt32(Console.ReadLine());
             continue;
         }
-        Console.WriteLine(intList[intArrayIndex]);
+        Console.WriteLine(intArray[intArrayIndex]);
         Console.ReadLine();
 
           /////////////////////
          // List of Strings //
         /////////////////////
-        List<string> stringList = new List<string>();
-        stringList.Add("Super");
-        stringList.Add("cali");
-        stringList.Add("fragil");
-        stringList.Add("istic");
-        stringList.Add("expi");
-        stringList.Add("ali");
-        stringList.Add("docious");
-
+        List<string> stringList = new List<string>() {"Super", "cali", "fragi", "listic", "expi", "ali", "docious"};
         Console.WriteLine("Select an index of the string list.");
         int stringListIndex = Convert.ToInt32(Console.ReadLine());
 
-        while (stringListIndex < 0 || stringListIndex > 6)
+        while (stringListIndex < 0 || stringListIndex >= stringList.Count)
         {
             Console.WriteLine("Index does not exist within list. Please try again.");
             stringListIndex = Convert.ToInt32(Console.ReadLine());
