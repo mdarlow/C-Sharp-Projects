@@ -77,18 +77,19 @@ class Program
         string usrInput2 = Convert.ToString(Console.ReadLine());
         bool foodSelected = false;
 
-        do
+
+        for (int i = 0; i < foodList.Count; i++)
         {
-            for (int i = 0; i < foodList.Count; i++)
+            if (foodList[i].Contains(usrInput2))
             {
-                if (foodList[i].Contains(usrInput2))
-                {
-                    Console.WriteLine(i);
-                    foodSelected = true;
-                }
+                Console.WriteLine(i);
+                foodSelected = true;
             }
         }
-        while (foodSelected == false);
+        if (foodSelected == false)
+        {
+            Console.WriteLine("Not in list.");
+        }
         Console.ReadLine();
     }
 }
