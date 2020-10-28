@@ -1,0 +1,14 @@
+C:\Users\Michael Darlow\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\Michael Darlow\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\Michael Darlow\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\Michael Darlow\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\Michael Darlow\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

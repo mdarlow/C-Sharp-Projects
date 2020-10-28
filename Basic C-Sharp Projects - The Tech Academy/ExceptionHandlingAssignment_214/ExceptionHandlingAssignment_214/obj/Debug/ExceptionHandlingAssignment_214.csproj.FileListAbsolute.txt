@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ExceptionHandlingAssignment_214\ExceptionHandlingAssignment_214\bin\Debug\ExceptionHandlingAssignment_214.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ExceptionHandlingAssignment_214\ExceptionHandlingAssignment_214\bin\Debug\ExceptionHandlingAssignment_214.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ExceptionHandlingAssignment_214\ExceptionHandlingAssignment_214\bin\Debug\ExceptionHandlingAssignment_214.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ExceptionHandlingAssignment_214\ExceptionHandlingAssignment_214\obj\Debug\ExceptionHandlingAssignment_214.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ExceptionHandlingAssignment_214\ExceptionHandlingAssignment_214\obj\Debug\ExceptionHandlingAssignment_214.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ExceptionHandlingAssignment_214\ExceptionHandlingAssignment_214\obj\Debug\ExceptionHandlingAssignment_214.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\ExceptionHandlingAssignment_214\ExceptionHandlingAssignment_214\obj\Debug\ExceptionHandlingAssignment_214.pdb
