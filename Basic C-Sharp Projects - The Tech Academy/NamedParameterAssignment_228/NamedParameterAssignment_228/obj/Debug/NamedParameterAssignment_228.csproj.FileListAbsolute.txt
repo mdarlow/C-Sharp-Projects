@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\NamedParameterAssignment_228\NamedParameterAssignment_228\bin\Debug\NamedParameterAssignment_228.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\NamedParameterAssignment_228\NamedParameterAssignment_228\bin\Debug\NamedParameterAssignment_228.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\NamedParameterAssignment_228\NamedParameterAssignment_228\bin\Debug\NamedParameterAssignment_228.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\NamedParameterAssignment_228\NamedParameterAssignment_228\obj\Debug\NamedParameterAssignment_228.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\NamedParameterAssignment_228\NamedParameterAssignment_228\obj\Debug\NamedParameterAssignment_228.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\NamedParameterAssignment_228\NamedParameterAssignment_228\obj\Debug\NamedParameterAssignment_228.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\NamedParameterAssignment_228\NamedParameterAssignment_228\obj\Debug\NamedParameterAssignment_228.pdb

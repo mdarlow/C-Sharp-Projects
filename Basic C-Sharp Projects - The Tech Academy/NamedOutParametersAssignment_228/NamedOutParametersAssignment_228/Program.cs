@@ -11,14 +11,14 @@ namespace NamedOutParametersAssignment_228
         static void Main(string[] args)
         {
             // Step 3:
-            int outParameters;
-            MathOperation.TwoOperations(out int outparameter2, 1, 2);
-            Console.WriteLine(outParameters);
+            //int outParameters;
+            MathOperation.TwoOperations(out int outParameter2, 1, 2);
+            Console.WriteLine(outParameter2);
 
             // Step 4:
-            int namedParameters;
-            MathOperation.TwoOperations(out int outParameter2, parameter1: 5, parameter2: 5);
-            Console.WriteLine(namedParameters);
+            //int namedParameters;
+            MathOperation.TwoOperations(out outParameter2, parameter1: 5, parameter2: 56);
+            Console.WriteLine(outParameter2);
 
             Console.ReadLine();
         }
