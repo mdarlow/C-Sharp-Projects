@@ -11,7 +11,7 @@ namespace MethodOverloadingAssignment_226
         static void Main(string[] args)
         {
             int minuend1 = 10;
-            double minuend2 = 10.258;
+            decimal minuend2 = 10.258M;
             string minuend3 = "10";
             Console.WriteLine("Integer to integer:");
             Console.WriteLine("{0} - 3 = {1}", minuend1, MathOperation.SubtractByThree(minuend1));
@@ -32,7 +32,7 @@ namespace MethodOverloadingAssignment_226
             return difference;
         }
 
-        public static int SubtractByThree(double minuend2)
+        public static int SubtractByThree(decimal minuend2)
         {
             int convertedMinuend2 = Convert.ToInt32(minuend2);
             int difference = convertedMinuend2 - 3;
