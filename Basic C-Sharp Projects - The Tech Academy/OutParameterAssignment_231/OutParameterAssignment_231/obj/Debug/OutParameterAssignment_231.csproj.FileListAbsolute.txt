@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\OutParameterAssignment_231\OutParameterAssignment_231\bin\Debug\OutParameterAssignment_231.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\OutParameterAssignment_231\OutParameterAssignment_231\bin\Debug\OutParameterAssignment_231.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\OutParameterAssignment_231\OutParameterAssignment_231\bin\Debug\OutParameterAssignment_231.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\OutParameterAssignment_231\OutParameterAssignment_231\obj\Debug\OutParameterAssignment_231.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\OutParameterAssignment_231\OutParameterAssignment_231\obj\Debug\OutParameterAssignment_231.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\OutParameterAssignment_231\OutParameterAssignment_231\obj\Debug\OutParameterAssignment_231.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\OutParameterAssignment_231\OutParameterAssignment_231\obj\Debug\OutParameterAssignment_231.pdb
