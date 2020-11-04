@@ -25,9 +25,7 @@ namespace ClassInheritanceAssignment_236
 
         static void Main(string[] args)
         {
-            Employee employee = new Employee();
-            employee.FirstName = "Sample";
-            employee.LastName = "Student";
+            Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" };
             employee.SayName();
             Console.ReadLine();
         }
