@@ -10,8 +10,6 @@ namespace InterfaceAssignment_247
     {
         static void Main(string[] args)
         {
-            //Employee employee = new Employee() { firstName = "Sample", lastName = "Student" };
-            //employee.SayName();
             IQuittable quittable = new Employee();
             quittable.Quit();
             Console.ReadLine();
