@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\InterfaceAssignment_247\InterfaceAssignment_247\bin\Debug\InterfaceAssignment_247.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\InterfaceAssignment_247\InterfaceAssignment_247\bin\Debug\InterfaceAssignment_247.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\InterfaceAssignment_247\InterfaceAssignment_247\bin\Debug\InterfaceAssignment_247.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\InterfaceAssignment_247\InterfaceAssignment_247\obj\Debug\InterfaceAssignment_247.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\InterfaceAssignment_247\InterfaceAssignment_247\obj\Debug\InterfaceAssignment_247.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\InterfaceAssignment_247\InterfaceAssignment_247\obj\Debug\InterfaceAssignment_247.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\InterfaceAssignment_247\InterfaceAssignment_247\obj\Debug\InterfaceAssignment_247.pdb
