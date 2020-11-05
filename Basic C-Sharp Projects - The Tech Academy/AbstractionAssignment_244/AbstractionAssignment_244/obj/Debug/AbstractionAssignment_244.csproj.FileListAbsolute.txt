@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\source\repos\AbstractionAssignment_244\AbstractionAssignment_244\bin\Debug\AbstractionAssignment_244.exe.config
+C:\Users\Michael Darlow\source\repos\AbstractionAssignment_244\AbstractionAssignment_244\bin\Debug\AbstractionAssignment_244.exe
+C:\Users\Michael Darlow\source\repos\AbstractionAssignment_244\AbstractionAssignment_244\bin\Debug\AbstractionAssignment_244.pdb
+C:\Users\Michael Darlow\source\repos\AbstractionAssignment_244\AbstractionAssignment_244\obj\Debug\AbstractionAssignment_244.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\source\repos\AbstractionAssignment_244\AbstractionAssignment_244\obj\Debug\AbstractionAssignment_244.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\source\repos\AbstractionAssignment_244\AbstractionAssignment_244\obj\Debug\AbstractionAssignment_244.exe
+C:\Users\Michael Darlow\source\repos\AbstractionAssignment_244\AbstractionAssignment_244\obj\Debug\AbstractionAssignment_244.pdb
