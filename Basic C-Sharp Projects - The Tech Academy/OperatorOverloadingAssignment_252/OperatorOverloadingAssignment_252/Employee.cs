@@ -24,13 +24,13 @@ namespace OperatorOverloadingAssignment_252
           //////////////////////////////
          /// Overload "==" operator ///
         //////////////////////////////
-        public static Employee operator== (Employee employee1, Employee employee2)
+        public static bool operator== (Employee employee1, Employee employee2)
         {
-            return (employee1 == employee2);
+            return employee1.Id == employee2.Id;
         }
-        public static Employee operator!= (Employee employee1, Employee employee2)
+        public static bool operator!= (Employee employee1, Employee employee2)
         {
-            return (employee1 != employee2);
+            return employee1.Id == employee2.Id;
         }
     }
 }

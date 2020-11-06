@@ -23,7 +23,7 @@ namespace OperatorOverloadingAssignment_252
               /////////////////////////////
              /// Compare Id properties ///
             /////////////////////////////
-            Console.WriteLine(employee1.Id == employee2.Id);
+            Console.WriteLine(employee1 == employee2);
             Console.ReadLine();
         }
     }
