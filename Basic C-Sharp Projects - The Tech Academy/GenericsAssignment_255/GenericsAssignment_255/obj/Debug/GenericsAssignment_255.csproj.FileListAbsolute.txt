@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\GenericsAssignment_255\GenericsAssignment_255\obj\Debug\GenericsAssignment_255.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\GenericsAssignment_255\GenericsAssignment_255\obj\Debug\GenericsAssignment_255.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\GenericsAssignment_255\GenericsAssignment_255\bin\Debug\GenericsAssignment_255.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\GenericsAssignment_255\GenericsAssignment_255\bin\Debug\GenericsAssignment_255.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\GenericsAssignment_255\GenericsAssignment_255\bin\Debug\GenericsAssignment_255.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\GenericsAssignment_255\GenericsAssignment_255\obj\Debug\GenericsAssignment_255.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\GenericsAssignment_255\GenericsAssignment_255\obj\Debug\GenericsAssignment_255.pdb

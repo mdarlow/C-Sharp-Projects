@@ -13,24 +13,37 @@ namespace GenericsAssignment_255
               //////////////////////////////////////////////////
              // Instantiate Employee object with type string //
             //////////////////////////////////////////////////
+
             Employee<string> employeeStringList = new Employee<string>();
-            employeeStringList.Add("asdf");
-            employeeStringList.Add("ghjk");
-            employeeStringList.Add("l;\'");
+            employeeStringList.things = new List<string> { };
+            employeeStringList.things.Add("asdf");
+            employeeStringList.things.Add("ghjk");
+            employeeStringList.things.Add("l;\'");
 
               ///////////////////////////////////////////////
              // Instantiate Employee object with type int //
             ///////////////////////////////////////////////
-            Employee<int> employeeIntList = new Employee<int>();
-            employeeIntList.Add(1);
-            employeeIntList.Add(2);
-            employeeIntList.Add(3);
 
-            foreach (Employee<string> thing in Employee<string>.Things)
+            Employee<int> employeeIntList = new Employee<int>();
+            employeeIntList.things = new List<int> { };
+            employeeIntList.things.Add(1);
+            employeeIntList.things.Add(2);
+            employeeIntList.things.Add(3);
+
+
+            Console.WriteLine("Strings in Things:");
+            foreach (var thing in employeeStringList.things)
             {
                 Console.WriteLine(thing);
             }
 
+            Console.WriteLine("Integers in Things:");
+            foreach (var thing in employeeIntList.things)
+            {
+                Console.WriteLine(thing);
+            }
+
+            Console.ReadLine();
 
 
 

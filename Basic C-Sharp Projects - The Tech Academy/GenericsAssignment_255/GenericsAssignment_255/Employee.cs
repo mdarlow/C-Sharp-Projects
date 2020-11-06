@@ -12,7 +12,7 @@ namespace GenericsAssignment_255
          // Employee class property: //
         //////////////////////////////
         public List<T> things { get; set; }
-
+        
         
 
         public int Id
