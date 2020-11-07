@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment_261\EnumAssignment_261\bin\Debug\EnumAssignment_261.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment_261\EnumAssignment_261\bin\Debug\EnumAssignment_261.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment_261\EnumAssignment_261\bin\Debug\EnumAssignment_261.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment_261\EnumAssignment_261\obj\Debug\EnumAssignment_261.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment_261\EnumAssignment_261\obj\Debug\EnumAssignment_261.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment_261\EnumAssignment_261\obj\Debug\EnumAssignment_261.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment_261\EnumAssignment_261\obj\Debug\EnumAssignment_261.pdb
