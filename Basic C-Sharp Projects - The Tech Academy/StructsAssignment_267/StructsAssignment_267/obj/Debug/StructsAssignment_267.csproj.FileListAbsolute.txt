@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\StructsAssignment_267\StructsAssignment_267\bin\Debug\StructsAssignment_267.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\StructsAssignment_267\StructsAssignment_267\bin\Debug\StructsAssignment_267.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\StructsAssignment_267\StructsAssignment_267\bin\Debug\StructsAssignment_267.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\StructsAssignment_267\StructsAssignment_267\obj\Debug\StructsAssignment_267.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\StructsAssignment_267\StructsAssignment_267\obj\Debug\StructsAssignment_267.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\StructsAssignment_267\StructsAssignment_267\obj\Debug\StructsAssignment_267.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\StructsAssignment_267\StructsAssignment_267\obj\Debug\StructsAssignment_267.pdb
