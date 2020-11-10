@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment_272\LambdaAssignment_272\bin\Debug\LambdaAssignment_272.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment_272\LambdaAssignment_272\bin\Debug\LambdaAssignment_272.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment_272\LambdaAssignment_272\bin\Debug\LambdaAssignment_272.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment_272\LambdaAssignment_272\obj\Debug\LambdaAssignment_272.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment_272\LambdaAssignment_272\obj\Debug\LambdaAssignment_272.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment_272\LambdaAssignment_272\obj\Debug\LambdaAssignment_272.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment_272\LambdaAssignment_272\obj\Debug\LambdaAssignment_272.pdb
