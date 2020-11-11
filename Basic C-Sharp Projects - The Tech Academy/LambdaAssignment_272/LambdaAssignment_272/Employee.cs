@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LambdaAssignment_272
 {
-    public struct Employee //: Person, IQuittable
+    public struct Employee
     {
         public int employeeId;
         public string firstName;

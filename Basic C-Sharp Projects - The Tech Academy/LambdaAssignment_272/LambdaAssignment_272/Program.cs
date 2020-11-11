@@ -12,7 +12,6 @@ namespace LambdaAssignment_272
         {
             List<Employee> employees = new List<Employee>();
             
-
             Employee employee1;
             employee1.employeeId = 1;
             employee1.firstName = "Joe";
@@ -72,79 +71,46 @@ namespace LambdaAssignment_272
             employee10.firstName = "Ima";
             employee10.lastName = "Dunn";
             employees.Add(employee10);
-            
 
-            List<Employee> fNameJoe = new List<Employee>();
-            
-            foreach (Employee employee in employees)
-            {
-                if (employee.firstName == "Joe")
-                {
-                    fNameJoe.Add(employee.employeeId);
-                    fNameJoe.Add(employee.lastName);
-                    fNameJoe.Add(employee.lastName);
-                }
-            }
+
+              //////////////////
+             // foreach loop //
+            //////////////////
+            //List<Employee> fNameJoe = new List<Employee>();
+            //Console.WriteLine("\nEmployees named \"Joe:\"");
+            //foreach (Employee employee in employees)
+            //{
+            //    if (employee.firstName == "Joe")
+            //    {
+            //        fNameJoe.Add(employee);
+            //    }
+            //}
+
+
+              ///////////////////////
+             // Lambda expression //
+            ///////////////////////
+            List<Employee> fNameJoe = employees.Where(x => x.firstName == "Joe").ToList();
+            Console.WriteLine("\nEmployees named \"Joe:\"");
             foreach (Employee name in fNameJoe)
             {
-                Console.WriteLine(name);
+                Console.WriteLine(name.employeeId);
+                Console.WriteLine(name.firstName);
+                Console.WriteLine(name.lastName);
             }
 
 
-
-
-
-
-
-
-
-
-
-
-            //////////////////////////////////////////////////
-            // Instantiate Employee object with type string //
-            //////////////////////////////////////////////////
-
-            //Employee<string> employeeStringList = new Employee<string>();
-            //employeeStringList.things = new List<string> { };
-            //employeeStringList.things.Add("asdf");
-            //employeeStringList.things.Add("ghjk");
-            //employeeStringList.things.Add("l;\'");
-
-            ///////////////////////////////////////////////
-            // Instantiate Employee object with type int //
-            ///////////////////////////////////////////////
-
-            //Employee<int> employeeIntList = new Employee<int>();
-            //employeeIntList.things = new List<int> { };
-            //employeeIntList.things.Add(1);
-            //employeeIntList.things.Add(2);
-            //employeeIntList.things.Add(3);
-
-
-            //Console.WriteLine("Strings in Things:");
-            //foreach (var thing in employeeStringList.things)
-            //{
-            //    Console.WriteLine(thing);
-            //}
-
-            //Console.WriteLine("Integers in Things:");
-            //foreach (var thing in employeeIntList.things)
-            //{
-            //    Console.WriteLine(thing);
-            //}
+            List<Employee> idOver5 = employees.Where(x => x.employeeId > 5).ToList();
+            Console.WriteLine("\nEmployees with employee ID's over 5:");
+            foreach (Employee name in idOver5)
+            {
+                Console.WriteLine(name.employeeId);
+                Console.WriteLine(name.firstName);
+                Console.WriteLine(name.lastName);
+            }
 
             Console.ReadLine();
 
-
-
-            //Employee employee1 = new Employee();
-            //employee1.Id = 1;
-            //Employee employee2 = new Employee();
-            //employee2.Id = 2;
-
-            //Console.WriteLine(employee1 == employee2);
-            //Console.ReadLine();
         }
     }
 }
