@@ -100,6 +100,9 @@ namespace LambdaAssignment_272
             }
 
 
+              /////////////////
+             // ID's over 5 //
+            /////////////////
             List<Employee> idOver5 = employees.Where(x => x.employeeId > 5).ToList();
             Console.WriteLine("\nEmployees with employee ID's over 5:");
             foreach (Employee name in idOver5)
