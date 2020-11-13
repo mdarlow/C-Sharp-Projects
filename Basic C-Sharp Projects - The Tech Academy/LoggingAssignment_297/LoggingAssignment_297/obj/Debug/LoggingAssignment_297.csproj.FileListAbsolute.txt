@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\LoggingAssignment_297\LoggingAssignment_297\bin\Debug\LoggingAssignment_297.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\LoggingAssignment_297\LoggingAssignment_297\bin\Debug\LoggingAssignment_297.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\LoggingAssignment_297\LoggingAssignment_297\bin\Debug\LoggingAssignment_297.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\LoggingAssignment_297\LoggingAssignment_297\obj\Debug\LoggingAssignment_297.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\LoggingAssignment_297\LoggingAssignment_297\obj\Debug\LoggingAssignment_297.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\LoggingAssignment_297\LoggingAssignment_297\obj\Debug\LoggingAssignment_297.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\LoggingAssignment_297\LoggingAssignment_297\obj\Debug\LoggingAssignment_297.pdb
