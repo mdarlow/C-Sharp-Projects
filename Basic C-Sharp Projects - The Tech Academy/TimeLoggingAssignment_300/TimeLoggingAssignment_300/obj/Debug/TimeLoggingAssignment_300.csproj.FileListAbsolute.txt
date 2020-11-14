@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\TimeLoggingAssignment_300\TimeLoggingAssignment_300\bin\Debug\TimeLoggingAssignment_300.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\TimeLoggingAssignment_300\TimeLoggingAssignment_300\bin\Debug\TimeLoggingAssignment_300.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\TimeLoggingAssignment_300\TimeLoggingAssignment_300\bin\Debug\TimeLoggingAssignment_300.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\TimeLoggingAssignment_300\TimeLoggingAssignment_300\obj\Debug\TimeLoggingAssignment_300.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\TimeLoggingAssignment_300\TimeLoggingAssignment_300\obj\Debug\TimeLoggingAssignment_300.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\TimeLoggingAssignment_300\TimeLoggingAssignment_300\obj\Debug\TimeLoggingAssignment_300.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\TimeLoggingAssignment_300\TimeLoggingAssignment_300\obj\Debug\TimeLoggingAssignment_300.pdb
