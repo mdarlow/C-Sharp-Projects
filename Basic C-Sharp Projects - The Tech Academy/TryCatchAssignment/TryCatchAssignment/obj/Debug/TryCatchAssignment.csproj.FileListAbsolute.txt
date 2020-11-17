@@ -1,0 +1,7 @@
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csprojAssemblyReference.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe.config
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.pdb
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.exe
+C:\Users\Michael Darlow\OneDrive\Desktop\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.pdb
