@@ -1,9 +1,4 @@
-﻿//1. Ask the user for their age.            X
-//2. Display the year the user was born.            X
-//3. Exceptions must be handled using “try/catch.”          X
-//4. Display appropriate error messages if the user enters zero or negative numbers.            X
-//5. Display a general message if an exception was caused by anything else.         X
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
