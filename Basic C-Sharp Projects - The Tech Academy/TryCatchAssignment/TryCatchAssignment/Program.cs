@@ -21,7 +21,7 @@ namespace TryCatchAssignment
             {
                 try
                 {
-                    Console.WriteLine("What is your age?");
+                    Console.WriteLine("\nWhat is your age?");
                     int age = Convert.ToInt32(Console.ReadLine());
 
                     // if age is 0:
@@ -37,7 +37,7 @@ namespace TryCatchAssignment
                     }
 
                     // Display the year the user was born:
-                    Console.WriteLine(currentDateAndTime.AddYears(-age).Year);
+                    Console.WriteLine("You were born in {0}.", currentDateAndTime.AddYears(-age).Year);
                     Console.ReadLine();
                     // Compatible entry has been made, so program will end:
                     return;
@@ -46,19 +46,19 @@ namespace TryCatchAssignment
                 catch (ZeroException)
                 {
                     // Error message for age = 0:
-                    Console.WriteLine("The number cannot be zero. Please try a number greater than zero.");
+                    Console.WriteLine("\nThe number cannot be zero. \nPlease try an integer greater than zero.");
                 }
 
                 catch (NegativeException)
                 {
                     // Error message for age < 0:
-                    Console.WriteLine("The number cannot be negative. Please try a number greater than zero.");
+                    Console.WriteLine("\nThe number cannot be negative. \nPlease try an integer greater than zero.");
                 }
 
                 catch (Exception)
                 {
                     // General exception:
-                    Console.WriteLine("Error -- incompatible user entry. Please try again.");
+                    Console.WriteLine("\nError -- incompatible user entry. \n\nPlease try again and make sure that \nthe entry is a positive whole number \nwith no added characters or spaces.");
                 }
             }
 
