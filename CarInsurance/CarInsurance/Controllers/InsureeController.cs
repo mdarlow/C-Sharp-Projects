@@ -58,6 +58,75 @@ namespace CarInsurance.Controllers
             return View(insuree);
         }
 
+        [HttpPost]
+        public ActionResult GetQuote(string FirstName, string LastName, string EmailAddress, DateTime DateOfBirth, int CarYear, string CarMake, string CarModel, bool DUI, int SpeedingTickets, bool CoverageType)
+        {
+            // Initial quote:
+            decimal quote = 50m;
+
+            // userAge:
+            var currentDateAndTime = DateTime.Now;
+            var userAge = currentDateAndTime.Year - DateOfBirth.Year;
+            if (userAge <= 18)
+            {
+                quote += 100;
+            }
+            else if (userAge >= 19 && userAge <= 25)
+            {
+                quote += 50;
+            }
+
+            // CarYear:
+            if (CarYear < 2000)
+            {
+                quote += 25;
+            }
+            else if (CarYear > 2015)
+            {
+                quote += 25;
+            }
+
+            // CarMake:
+            if (CarMake == "porsche")
+            {
+                quote += 25;
+            }
+
+            // CarMake & CarModel:
+            if (CarMake == "porsche" && CarModel == "911 carrera")
+            {
+                quote += 25;
+            }
+
+            // SpeedingTickets:
+            if (SpeedingTickets >= 1)
+            {
+                quote += SpeedingTickets * 10;
+            }
+
+            // DUI:
+            if (DUI)
+            {
+                quote += quote * 25 / 100;
+            }
+
+            // CoverageType:
+            if (CoverageType)
+            {
+                quote += quote * 50 / 100;
+            }
+
+
+            if (ModelState.IsValid)
+            {
+                db.Insurees.Add(insuree);
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+
+            return View(insuree);
+        }
+
         // GET: Insuree/Edit/5
         public ActionResult Edit(int? id)
         {

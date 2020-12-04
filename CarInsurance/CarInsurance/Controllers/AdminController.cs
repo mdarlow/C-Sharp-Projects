@@ -48,6 +48,7 @@ namespace CarInsurance.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
         {
+
             if (ModelState.IsValid)
             {
                 db.Insurees.Add(insuree);
@@ -124,70 +125,70 @@ namespace CarInsurance.Controllers
             base.Dispose(disposing);
         }
 
-        public ActionResult Quote()
-        {
-            // Test:
-            int age = 30;
-            int year = 2013;
-            string make = "honda";
-            string model = "civic";
-            int tickets = 1;
-            bool hasDui = false;
-            bool fullCoverage = false;
-            decimal quote = 50m;
+        //public ActionResult Quote()
+        //{
+        //    // Test:
+        //    int age = 30;
+        //    int year = 2013;
+        //    string make = "honda";
+        //    string model = "civic";
+        //    int tickets = 1;
+        //    bool hasDui = false;
+        //    bool fullCoverage = false;
+        //    decimal quote = 50m;
 
-            // age:
-            if (age <= 18)
-            {
-                quote += 100;
-            }
-            else if (age >= 19 && age <=25)
-            {
-                quote += 50;
-            }
+        //    // age:
+        //    if (age <= 18)
+        //    {
+        //        quote += 100;
+        //    }
+        //    else if (age >= 19 && age <=25)
+        //    {
+        //        quote += 50;
+        //    }
 
-            // year:
-            if (year < 2000)
-            {
-                quote += 25;
-            }
-            else if (year > 2015)
-            {
-                quote += 25;
-            }
+        //    // year:
+        //    if (year < 2000)
+        //    {
+        //        quote += 25;
+        //    }
+        //    else if (year > 2015)
+        //    {
+        //        quote += 25;
+        //    }
 
-            // make:
-            if (make == "porsche")
-            {
-                quote += 25;
-            }
+        //    // make:
+        //    if (make == "porsche")
+        //    {
+        //        quote += 25;
+        //    }
             
-            // make & model:
-            if (make == "porsche" && model == "911 carrera")
-            {
-                quote += 25;
-            }
+        //    // make & model:
+        //    if (make == "porsche" && model == "911 carrera")
+        //    {
+        //        quote += 25;
+        //    }
 
-            // tickets:
-            if (tickets >= 1)
-            {
-                quote += tickets * 10;
-            }
+        //    // tickets:
+        //    if (tickets >= 1)
+        //    {
+        //        quote += tickets * 10;
+        //    }
 
-            // hasDui:
-            if (hasDui)
-            {
-                quote += quote * 25 / 100;
-            }
+        //    // hasDui:
+        //    if (hasDui)
+        //    {
+        //        quote += quote * 25 / 100;
+        //    }
 
-            // fullCoverage:
-            if (fullCoverage)
-            {
-                quote += quote * 50 / 100;
-            }
+        //    // fullCoverage:
+        //    if (fullCoverage)
+        //    {
+        //        quote += quote * 50 / 100;
+        //    }
 
-            return quote;
-        }
+        //    return quote;
+        //}
 
     }
 }
