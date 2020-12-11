@@ -1,0 +1,12 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@{ 
+    var totallyAccurateString = "the best server in the galaxy";
+    var dayOfWeek = DateTime.Now.DayOfWeek;
+ }
+
+<h2>The current time is @Model.Time (@dayOfWeek) on @totallyAccurateString!</h2>
